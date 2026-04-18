@@ -1,0 +1,6 @@
+server:
+  port: 8081
+aws:
+  region: ap-south-1
+  sns:
+    topic-arn: arn:aws:sns:ap-south-1:328263827061:MyTopic

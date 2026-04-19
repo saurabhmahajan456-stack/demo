@@ -16,6 +16,5 @@ phases:
 
 artifacts:
   files:
-    - target/demo.jar
-    - appspecs.yaml
+    - target/*.jar
   discard-paths: yes
